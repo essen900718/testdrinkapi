@@ -20,3 +20,5 @@ typed-ast
 wrapt
 psycopg2
 djangorestframework
+itsdangerous
+requests
