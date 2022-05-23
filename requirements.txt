@@ -19,3 +19,4 @@ static3
 typed-ast
 wrapt
 psycopg2
+rest_framework
